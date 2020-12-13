@@ -1,0 +1,12 @@
+{
+  "name": "Techly Africa",
+  "url": "https://techlyafrica.com",
+  "authorEmail": "delanyo@delanyo.me",
+  "authorHandle": "@delanyobott",
+  "authorName": "delanyo agbenyo",
+  "favicon": "/images/favicon.png",
+  "social": {
+    "twitter": "@techlyafrica",
+    "email": "tech@techlyafrica.com"
+  }
+}

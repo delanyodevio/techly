@@ -1,0 +1,22 @@
+{
+  "delanyobott": [
+    {
+      "name": "delanyo agbenyo",
+      "email": "delanyo@delanyo.com",
+      "twitter": "delanyobott",
+      "website": "delanyo.me",
+      "avatar": "/src/image/authors/dela.webp",
+      "bio": "delanyo agbenyo is a web dev Utilis templum verbis, date Sidonide et fugit, iram vela cultros pennis et nimium."
+    }
+  ],
+
+  "delanyo": [
+    {
+      "name": "delanyo rogers",
+      "email": "rogers@delanyo.com",
+      "twitter": "delanyo",
+      "avatar": "/src/image/authors/delanyo.webp",
+      "bio": "delanyo rogers is a Tuam speciosam truculenta et cinxit sacer feroci et armenta servas; totoque fovet! Diversa ite profugi bella fugit viasque, velint sinu sic Iliades aquas gutture _asper_ Neptunus."
+    }
+  ]
+}

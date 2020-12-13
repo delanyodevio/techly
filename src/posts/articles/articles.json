@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/articles.html",
+  "permalink": "/{{ type | slug }}/{{ title | slug }}/"
+}

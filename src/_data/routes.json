@@ -1,0 +1,43 @@
+{
+  "nav": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Blog",
+      "url": "/blog"
+    },
+    {
+      "text": "Ebooks",
+      "url": "/ebooks"
+    },
+    {
+      "text": "Tutorials",
+      "url": "/tutorials"
+    },
+    {
+      "text": "Courses",
+      "url": "/courses"
+    }
+  ],
+
+  "footer": [
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    },
+    {
+      "text": "Github",
+      "url": "https://github.com/delanyodevio/techly#readme"
+    }
+  ]
+}
